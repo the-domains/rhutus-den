@@ -1,0 +1,28 @@
+name: Rhutus den
+favicon: null
+layout_spectrum: 0.5743964863941073
+typography_spectrum: 0.4057503647636622
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.7667072014883161
+  lightness: 0.5884906891733408
+  saturation: 0.6084172111004591
+  rhythmicContrast: 0.8608531218487769
+purpose: []
